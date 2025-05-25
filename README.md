@@ -6,7 +6,7 @@
 🌱 I'm currently learning... React.js / Laravel  
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkheim&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDarkheim&layout=compact)
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDarkheim&layout=compact)
