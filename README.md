@@ -3,7 +3,7 @@
 ## 🧠 Abstract
 
 👨‍💻 Owner/Developer at [Hovenko.com](https://hovenko.com)  
-🌱 Currently learning: React.js / Laravel  
+🌱 Currently learning: С++/Unreal Engine 
 ☕ I build games, servers, and full-stack web apps.
 
 ## 📊 Most Used Languages
