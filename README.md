@@ -2,7 +2,7 @@
 
 ## 🧠 Abstract
 
-👨‍💻 Owner/Developer at [Hovenko.com](https://hovenko.com)  
+👨‍💻 Owner/Developer at [portfolio](https://hovenko.com)  
 ☕ I build games, servers, and full-stack web apps.
 
 ## 📊 Most Used Languages
