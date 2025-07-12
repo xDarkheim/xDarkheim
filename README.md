@@ -3,13 +3,16 @@
 ## 🧠 Abstract
 
 👨‍💻 Software Developer specializing in Desktop Development at [hovenko.com](https://hovenko.com)  
-☕ I create cross-platform desktop applications using C++ and Qt framework.
+☕ I create cross-platform desktop applications using C++, Qt framework, and graphics programming with Vulkan, OpenGL, and SFML.
 
 ## 🛠 Tech Stack
 
 **Desktop Development (Primary Focus):**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 
 **Web Development (Additional Competency):**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -22,7 +25,7 @@
 
 ## 🚀 About
 
-- **Software Developer** specializing in **Desktop Development** using **C++ and Qt framework**
+- **Software Developer** specializing in **Desktop Development** using **C++, Qt framework, and graphics programming with Vulkan, OpenGL, and SFML**
 - **Primary Focus**: Creating cross-platform desktop applications with modern user interfaces
 - Experience with diverse projects: corporate desktop applications, management systems, utilities, and other software solutions
 - **Additional Competency**: Web development (HTML5/CSS3/JavaScript frontend, PHP server-side, MySQL databases)
