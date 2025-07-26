@@ -32,16 +32,6 @@
 - Committed to writing clean, maintainable code and following software development best practices
 - Passionate about cross-platform software development and modern desktop application design
 
----
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDarkheim&layout=compact&theme=dark)
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xDarkheim&show_icons=true&count_private=true&theme=dark)
-
 ## 📫 Contact
 
 [![Website](https://img.shields.io/badge/Website-hovenko.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://hovenko.com)
