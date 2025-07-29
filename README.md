@@ -55,28 +55,6 @@ Currently exploring advanced graphics programming techniques, modern C++ standar
 
 </div>
 
-## 📊 **GitHub Statistics**
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xDarkheim&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDarkheim&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Top Languages" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xDarkheim&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
 ## 📫 **Connect With Me**
 
 <div align="center">
