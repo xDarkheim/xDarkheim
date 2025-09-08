@@ -4,8 +4,6 @@
 
 **Full-Stack Web Developer**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=xDarkheim&color=dc143c&style=flat-square)](https://github.com/xDarkheim)
-
 </div>
 
 ## Professional Summary
