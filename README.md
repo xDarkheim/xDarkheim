@@ -1,6 +1,5 @@
 <div align="center">
 
-# xDarkheim
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=300&lines=Software+Developer;Code+Artisan;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E8%8A%B8%E8%A1%93)](https://git.io/typing-svg)
 
