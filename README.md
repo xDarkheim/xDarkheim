@@ -1,18 +1,46 @@
-I'm a Software Developer passionate about building dynamic, scalable applications. I specialize in C++, PHP, JavaScript, and Python, creating robust solutions that drive business growth.
-
-My commitment to clean, maintainable code and ability to translate complex requirements into elegant technical solutions sets me apart.
-
-
 <div align="center">
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xDarkheim&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)](https://github.com/xDarkheim)
+# xDarkheim
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=300&lines=Software+Developer;Code+Artisan;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E8%8A%B8%E8%A1%93)](https://git.io/typing-svg)
+
+*Building elegant, scalable solutions*  
+*Clean code enthusiast • Problem solver*
 
 </div>
 
+<br>
+
 <div align="center">
 
-**Let's build something amazing together!** 🚀
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[Portfolio](https://hovenko.com) • [Website](https://darkheim.net)
+</div>
+
+<br>
+
+<div align="center">
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xDarkheim&theme=calm&hide_border=true&background=00000000&ring=bb9af7&fire=bb9af7&currStreakLabel=a9b1d6)](https://github.com/xDarkheim)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-9D7CD8?style=for-the-badge&logoColor=white)](https://hovenko.com)
+[![Website](https://img.shields.io/badge/🌙_Website-7C3AED?style=for-the-badge&logoColor=white)](https://darkheim.net)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=xDarkheim&color=9D7CD8&style=flat-square&label=visitors)
 
 </div>
