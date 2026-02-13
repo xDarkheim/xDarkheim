@@ -24,14 +24,6 @@
 
 <div align="center">
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xDarkheim&theme=calm&hide_border=true&background=00000000&ring=bb9af7&fire=bb9af7&currStreakLabel=a9b1d6)](https://github.com/xDarkheim)
-
-</div>
-
-<br>
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/🌸_Portfolio-9D7CD8?style=for-the-badge&logoColor=white)](https://hovenko.com)
 [![Website](https://img.shields.io/badge/🌙_Website-7C3AED?style=for-the-badge&logoColor=white)](https://darkheim.net)
 
