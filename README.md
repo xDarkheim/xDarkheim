@@ -27,11 +27,3 @@
 [![Website](https://img.shields.io/badge/🌙_Website-7C3AED?style=for-the-badge&logoColor=white)](https://darkheim.net)
 
 </div>
-
-<br>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=xDarkheim&color=9D7CD8&style=flat-square&label=visitors)
-
-</div>
