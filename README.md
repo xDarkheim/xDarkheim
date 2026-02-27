@@ -22,7 +22,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-9D7CD8?style=for-the-badge&logoColor=white)](https://hovenko.com)
 [![Website](https://img.shields.io/badge/🌙_Website-7C3AED?style=for-the-badge&logoColor=white)](https://darkheim.net)
 
 </div>
